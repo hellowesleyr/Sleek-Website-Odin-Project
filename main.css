@@ -103,6 +103,10 @@ body {
 
 }
 
+.caption {
+    color: #363F4C;
+}
+
 .image-frame {
     
     height: 200px;
